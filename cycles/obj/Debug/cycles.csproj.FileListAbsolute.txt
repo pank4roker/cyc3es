@@ -1,0 +1,7 @@
+D:\Основы алгоритмизации\cycles\bin\Debug\cycles.exe.config
+D:\Основы алгоритмизации\cycles\bin\Debug\cycles.exe
+D:\Основы алгоритмизации\cycles\bin\Debug\cycles.pdb
+D:\Основы алгоритмизации\cycles\obj\Debug\cycles.csproj.AssemblyReference.cache
+D:\Основы алгоритмизации\cycles\obj\Debug\cycles.csproj.CoreCompileInputs.cache
+D:\Основы алгоритмизации\cycles\obj\Debug\cycles.exe
+D:\Основы алгоритмизации\cycles\obj\Debug\cycles.pdb
